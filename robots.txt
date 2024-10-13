@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vategigaji.pages.dev/sitemap.xml
